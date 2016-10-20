@@ -1,3 +1,1 @@
 var yup = 'hello'
-
-test
